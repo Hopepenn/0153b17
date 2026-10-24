@@ -31,7 +31,7 @@ When looking at how amino acid side chains form hydrogen bonds with each other o
 - **Intra- and Inter-molecular Networks:** Within the protein core and at subunit interfaces, these side chains hydrogen bond with each other or with water molecules to maintain the tertiary fold and the tetrameric assembly.
 - **DNA Recognition:** In 3KMD, specific amino acids (particularly Arginine and Lysine) extend into the grooves of the DNA double helix, forming precise hydrogen bonds and electrostatic interactions with the DNA bases and phosphate backbone to sequence-specifically bind target genes.
 
-![Peptide Bond Formation](image/image1.png)
+![Peptide Bond Formation](image/profile.jpg)
 
 
 ---
@@ -99,6 +99,7 @@ The bases pair up across the center of the double helix according to Chargaff's 
 ### Answer:
 
 #### a. Screenshot of ChimeraX visualization
-![ChimeraX Visualization](image/image2.jpg)
+![ChimeraX Visualization](image/profile.jpg2)
+
 
 #### b. Save your ChimeraX session file as `StudentID.cxs`.
